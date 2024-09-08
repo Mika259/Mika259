@@ -1,5 +1,5 @@
 <center><h1>MIKA259</h1>
-  - belajar it
+- belajar it
   <p>Saya mengongsikan projek - projek sederhana dan kecil saya..</p></center>
 
 - Layari https://mika259.github.io/
