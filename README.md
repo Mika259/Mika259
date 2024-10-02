@@ -2,7 +2,7 @@
 - belajar it
   <p>Saya mengongsikan projek - projek sederhana dan kecil saya..</p></center>
 
-- Layari https://mika259.github.io/
+- Layari https://mika259.github.io/blogspot
 
 - Github : https://github.com/mika259/
 - Username : Mika259
